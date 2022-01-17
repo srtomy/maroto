@@ -6,10 +6,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/johnfercher/maroto/pkg/color"
-	"github.com/johnfercher/maroto/pkg/consts"
-	"github.com/johnfercher/maroto/pkg/pdf"
-	"github.com/johnfercher/maroto/pkg/props"
+	"github.com/srtomy/maroto/pkg/color"
+	"github.com/srtomy/maroto/pkg/consts"
+	"github.com/srtomy/maroto/pkg/pdf"
+	"github.com/srtomy/maroto/pkg/props"
 )
 
 // ExampleNewMaroto demonstrates how to create maroto

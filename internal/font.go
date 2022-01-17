@@ -1,9 +1,9 @@
 package internal
 
 import (
-	"github.com/johnfercher/maroto/internal/fpdf"
-	"github.com/johnfercher/maroto/pkg/color"
-	"github.com/johnfercher/maroto/pkg/consts"
+	"github.com/srtomy/maroto/internal/fpdf"
+	"github.com/srtomy/maroto/pkg/color"
+	"github.com/srtomy/maroto/pkg/consts"
 )
 
 // Font is the abstraction which deals of how to set font configurations

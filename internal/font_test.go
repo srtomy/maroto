@@ -2,13 +2,14 @@ package internal_test
 
 import (
 	"fmt"
-	"github.com/johnfercher/maroto/internal"
-	"github.com/johnfercher/maroto/internal/mocks"
-	"github.com/johnfercher/maroto/pkg/color"
-	"github.com/johnfercher/maroto/pkg/consts"
+	"testing"
+
+	"github.com/srtomy/maroto/internal"
+	"github.com/srtomy/maroto/internal/mocks"
+	"github.com/srtomy/maroto/pkg/color"
+	"github.com/srtomy/maroto/pkg/consts"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
-	"testing"
 )
 
 func TestNewFont(t *testing.T) {
