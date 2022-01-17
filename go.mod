@@ -1,4 +1,4 @@
-module github.com/johnfercher/maroto
+module github.com/srtomy/maroto
 
 go 1.13
 
